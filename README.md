@@ -16,7 +16,14 @@
 [![license](https://img.shields.io/github/license/LEXam-Benchmark/LEXam?label=Code%20License)](https://github.com/LEXam-Benchmark/LEXam/blob/main/LICENSE)
 [![Data License](https://img.shields.io/badge/Data%20License-CC--BY--4.0-orange.svg)](https://github.com/LEXam-Benchmark/LEXam/blob/main/LICENSE_DATA)
 
-## 🚀🔄 Reproducing Paper results or Evaluating your own LLM
+## 🔥 News
+- [2026/01] Our paper has been accepted to ***ICLR 2026!***
+- [2025/12] We reorganized all multiple-choice questions into four separate files, `mcq_4_choices` (n = 1,655), `mcq_8_choices` (n = 1,463), `mcq_16_choices` (n = 1,028), and `mcq_32_choices` (n = 550), all with standardized features.
+- [2025/11] We identified and corrected several annotation errors in the statements of the original multiple-choice questions.
+- [2025/09] We updated our evaluation results on open questions using an ensemble LLM-as-A-Judge. 
+- [2025/05] Release of the first version of [paper](https://arxiv.org/abs/2505.12864), where we evaluate representative SoTA LLMs with evaluations stricly verified by legal experts.
+
+## 🚀🔄 Reproducing Paper Results or Evaluating your own LLM
 
 ### Environment Preparation
 ```shell
