@@ -23,7 +23,7 @@
 - [2025/09] We updated our evaluation results on open questions using an ensemble LLM-as-A-Judge. 
 - [2025/05] Release of the first version of [paper](https://arxiv.org/abs/2505.12864), where we evaluate representative SoTA LLMs with evaluations stricly verified by legal experts.
 
-## 🚀🔄 Reproducing Paper Results or Evaluating your own LLM
+## 🔄 Reproducing Paper Results or Evaluating Your Own Language Model
 
 ### Environment Preparation
 ```shell
